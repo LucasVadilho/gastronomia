@@ -12,9 +12,9 @@ categories:
 
 Um dos tópicos a serem explorados em sala parece que será a definição de termos. Assim como sua _contextualização_ e _exploração de seus limites de aplicabilidade_. Isso é necessário para o desenvolvimento de um vocabulário em comum, compartilhado por todos.
 
-<!--more-->
-
 O primeiro termo foi simples, o professor pergunta algo como:
+
+<!--more-->
 
 > Mas e aí, o que é gastronomia?
 

@@ -9,7 +9,7 @@ enableEmoji = true
 enableRobotsTXT = true
 [pagination]
     disableAliases = false
-    pagerSize = 3
+    pagerSize = 15
     path = ''
 
 # Disqus comments
