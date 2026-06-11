@@ -25,6 +25,8 @@ do capital dentro de determinados grupos, etc
 
 Também discutimos alguns artigos de Rafael Cunha Ferro, usando como metodologia estudos de caso, entrevistas e etnografia, Cunha levantou _objetivos da gastronomia_ ao categorizar palavras-chave de artigos cientificos da área.
 
+<hr>
+
 O campo da gastronomia está intrinsecamente ligado em diversas outras áreas de estudo. Tanto "para trás": _comer_ não acontece sem comida, sem agricultura, sem pecuárias, sem logística de transporte e armazenamento, sem cozinheiros -- que precisam de educação e treinamento, que estão envoltos na cultura e conhecem as condições socioeconomicas de onde estão inseridos. 
 
 Também precisamos pensar no "para frente": _comer_ não termina no degustar, tem todo o processo bioquímico no corpo, os efeitos nutricionais, todo o processo de manutenção e limpeza da cozinha, ...
