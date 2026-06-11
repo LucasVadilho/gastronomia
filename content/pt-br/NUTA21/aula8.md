@@ -10,6 +10,9 @@ categories:
     - NUTA21
 ---
 
-Não consegui participar dessa aula.
+Não consegui participar dessa aula. Então, de maneira completamente arbitrária, vou falar da Aromateca, trabalho de Gastronomia Básica.
 
 <!--more-->
+
+
+gastronomia.oioipio.com
